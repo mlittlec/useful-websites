@@ -7,3 +7,4 @@
 ## Password Generators
 
 - [Awesome password generator for kids](https://www.dinopass.com/)
+
