@@ -2,4 +2,4 @@
 
 ## MacOS related
 
-- [MacOS Containers](https://githib.com/apple/containers)
+- [MacOS Containers](https://github.com/apple/container)
