@@ -1,5 +1,5 @@
 # Useful Ansible Stuff
 
-## Operating System version
+## Operating Systems
 
 - [Omarchy](https://omarchy.org/)
