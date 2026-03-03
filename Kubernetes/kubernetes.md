@@ -7,4 +7,4 @@
 ## Tools & Utilities
 
 - [Kubernetes History Investigator](https://github.com/GoogleCloudPlatform/khi)
-- [Pulse - Real-time monitoring for Proxmox, Docker, and Kubernetes infrastructure]
+- [Pulse - Real-time monitoring for Proxmox, Docker, and Kubernetes infrastructure](https://github.com/rcourtman/Pulse)
