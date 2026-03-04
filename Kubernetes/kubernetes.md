@@ -3,7 +3,7 @@
 ## Documentation
 
 - [The Kubernetes Cluster API Book](https://cluster-api.sigs.k8s.io/)
-- [Official Kubernetes Docs]
+- [Official Kubernetes Docs](https://kubernetes.io/docs/home/)
 
 ## Tools & Utilities
 
