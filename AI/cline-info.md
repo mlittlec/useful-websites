@@ -8,4 +8,4 @@
 - [Memory Bank: How to Make Cline an AI Agent That Never Forgets](https://cline.bot/blog/memory-bank-how-to-make-cline-an-ai-agent-that-never-forgets)
 - [Using Cline Commands](https://docs.cline.bot/core-workflows/using-commands)
 - [Using Cline Memory Bank](https://docs.cline.bot/features/memory-bank)
-- [Cline Slash Commands]
+- [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
