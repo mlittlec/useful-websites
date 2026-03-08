@@ -12,4 +12,4 @@
 
 ## Examples
 
-- [Example](https://github.com/nickbanmann98/cline-doc)
+- [Example](https://github.com/nickbaumann98/cline-doc)
