@@ -11,3 +11,5 @@
 - [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
 
 ## Examples
+
+- [Example](https://github.com/nickbanmann98/cline-doc)
