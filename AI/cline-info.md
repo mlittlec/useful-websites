@@ -9,3 +9,5 @@
 - [Using Cline Commands](https://docs.cline.bot/core-workflows/using-commands)
 - [Using Cline Memory Bank](https://docs.cline.bot/features/memory-bank)
 - [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
+
+## Examples
