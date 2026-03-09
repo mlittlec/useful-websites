@@ -13,4 +13,4 @@
 ## Examples
 
 - [Nick Baumann's Examples](https://github.com/nickbaumann98/cline_docs)
-- [Cline Prject Guide](https://github.com/mgesteban/cline_project_guide)
+- [Cline Project Guide](https://github.com/mgesteban/cline_project_guide)
