@@ -10,6 +10,10 @@
 - [Using Cline Memory Bank](https://docs.cline.bot/features/memory-bank)
 - [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
 
+## Memory Bank
+
+- [Using Cline Memory Bank](https://docs.cline.bot/features/memory-bank)
+
 ## Examples
 
 - [Nick Baumann's Examples](https://github.com/nickbaumann98/cline_docs)
