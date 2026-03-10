@@ -13,6 +13,7 @@
 ## Memory Bank
 
 - [Using Cline Memory Bank](https://docs.cline.bot/features/memory-bank)
+- [Memory Bank: How to Make Cline an AI Agent That Never Forgets](https://cline.bot/blog/memory-bank-how-to-make-cline-an-ai-agent-that-never-forgets)
 
 ## Examples
 
