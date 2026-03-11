@@ -8,7 +8,6 @@
 ## Prompt Information
 
 - [Cline Community Prompts](https://github.com/cline/prompts)
-
 - [Using Cline Commands](https://docs.cline.bot/core-workflows/using-commands)
 - [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
 
