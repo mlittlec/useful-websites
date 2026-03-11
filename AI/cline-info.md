@@ -1,5 +1,9 @@
 # Useful Cline Information
 
+## Tips
+
+- [Cline Tips](https://github.com/dorukyy/cline-tips)
+
 ## Prompt Information
 
 - [Cline Community Prompts](https://github.com/cline/prompts)
