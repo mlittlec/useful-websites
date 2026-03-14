@@ -7,3 +7,4 @@
 ## Ansible-like Python
 
 - [Pyinfra](https://pyinfra.com/)
+- [Pyinfra GitHub Repo](https://github.com/pyinfra-dev/pyinfra)
