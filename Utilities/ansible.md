@@ -8,4 +8,4 @@
 
 - [Pyinfra](https://pyinfra.com/)
 - [Pyinfra GitHub Repo](https://github.com/pyinfra-dev/pyinfra)
-- [Pyinfra Examples]
+- [Pyinfra Examples](https://github.com/pyinfra-dev/pyinfra-examples)
