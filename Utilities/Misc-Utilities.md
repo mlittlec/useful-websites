@@ -5,3 +5,4 @@
 ## *nix Utilities
 
 - [screenFetch](https://github.com/KittyKatt/screenFetch)
+- [Mole - a deep clean tool for Mac (& possibly Windows)]
