@@ -29,5 +29,4 @@
 
 ## GitHub Gist for Cline
 
-- [Cline Gist
-]
+- [Cline Gist](https://gist.github.com/maoxiaoke)
