@@ -30,3 +30,4 @@
 ## GitHub Gist for Cline
 
 - [Cline Gist](https://gist.github.com/maoxiaoke)
+  - [Gist example of Cline Prompt](https://gist.github.com/maoxiaoke/cd960ac88e11b08cbb4fa697439ebc68)
