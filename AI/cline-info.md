@@ -28,3 +28,6 @@
 - [Cline Project Guide](https://github.com/mgesteban/cline_project_guide)
 
 ## GitHub Gist for Cline
+
+- [Cline Gist
+]
