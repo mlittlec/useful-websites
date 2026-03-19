@@ -2,4 +2,4 @@
 
 ## Wooden Model Boats
 
-- [Artesanial Latina]
+- [Artesanial Latina](https://artesanialatina.net/en/)
