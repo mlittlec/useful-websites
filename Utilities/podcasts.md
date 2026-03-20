@@ -2,4 +2,4 @@
 
 ## Tech Podcasts
 
-- [BitFlip]
+- [BitFlip](https://bitflip.show)
