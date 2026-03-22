@@ -9,5 +9,4 @@
 
 ## MacOS Utilities
 
-- []
 - [Performance Monitoring for MacOS](https://github.com/tikh/asitop)
