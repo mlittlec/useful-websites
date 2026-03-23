@@ -2,4 +2,4 @@
 
 ## Python Libraries
 
-- [Rich]
+- [Rich](https://Textualize/rich)
