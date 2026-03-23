@@ -1,6 +1,6 @@
 # A compilation of useful miscellaneous utilities
 
-## Multi-Os Utilities
+## Multi-OS Utilities
 
 ## *nix Utilities
 
