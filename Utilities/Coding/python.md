@@ -3,4 +3,4 @@
 ## Python Libraries
 
 - [Rich](https://Textualize/rich)
-- [Textual]
+- [Textual](https://Textualize/textual)
