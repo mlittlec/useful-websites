@@ -2,5 +2,5 @@
 
 ## Python Libraries
 
-- [Rich](https://Textualize/rich)
+- [Rich](https://github.com/Textualize/rich)
 - [Textual](https://Textualize/textual)
