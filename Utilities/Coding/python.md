@@ -3,5 +3,5 @@
 ## Python Libraries
 
 - [Rich](https://github.com/Textualize/rich)
-- [Textual](https://Textualize/textual)
+- [Textual](https://github.com/Textualize/textual)
 - [Toad]
