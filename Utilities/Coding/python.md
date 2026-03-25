@@ -4,4 +4,4 @@
 
 - [Rich](https://github.com/Textualize/rich)
 - [Textual](https://github.com/Textualize/textual)
-- [Toad]
+- [Toad](https://batrachianai/Toad)
