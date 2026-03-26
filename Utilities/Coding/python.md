@@ -2,6 +2,7 @@
 
 ## Python Libraries
 
+- [Textual website]
 - [Rich](https://github.com/Textualize/rich)
 - [Textual](https://github.com/Textualize/textual)
 - [Toad](https://batrachianai/Toad)
