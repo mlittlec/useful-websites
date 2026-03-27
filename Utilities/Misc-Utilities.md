@@ -12,3 +12,5 @@
 - [Performance Monitoring for MacOS](https://github.com/tlkh/asitop)
 
 ## Browser-based Utilities
+
+- [Browser-based DB Entity drawer]
