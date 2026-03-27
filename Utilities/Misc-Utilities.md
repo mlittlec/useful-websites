@@ -13,4 +13,5 @@
 
 ## Browser-based Utilities
 
-- [Browser-based DB Entity drawer]
+- [Browser-based DB Entity drawer](https://drawdb.app)
+- [Browser-based DB diagram plotter]
