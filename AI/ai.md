@@ -2,4 +2,4 @@
 
 ## Generic CLI Tools
 
-- [Toad]
+- [Toad](https://github.com/batrachianai/toad)
