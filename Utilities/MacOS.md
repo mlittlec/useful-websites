@@ -1,3 +1,5 @@
 # A Collection of Useful MacOS Utilities
 
 ## Monitoring the Operating System
+
+- [asitop - Perf monitoring CLI tool for Apple Silicon]
