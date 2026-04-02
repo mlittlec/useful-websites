@@ -3,4 +3,4 @@
 ## Monitoring the Operating System
 
 - [asitop - Perf monitoring CLI tool for Apple Silicon](https://github.com/tlkh/asitop)
-- [Mole (Deepclean your Mac)](https://github.com/tw93/Mole)
+- [Mole (Deepclean your Mac (and possibly MS Windows too))](https://github.com/tw93/Mole)
