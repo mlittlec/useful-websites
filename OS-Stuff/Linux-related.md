@@ -3,3 +3,4 @@
 ## Operating Systems
 
 - [Omarchy](https://omarchy.org/)
+- [Talos Linux(for K8s)]
