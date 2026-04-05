@@ -4,4 +4,4 @@
 
 - [Toad](https://github.com/batrachianai/toad)
 - [Agentic Design Patterns (PDF Book on the same topic)](https://github.com/evoiz/Agentic-Design-Patterns)
-- [Self-hosted Productivity app]
+- [Self-hosted Productivity app](tasktrove.io)
