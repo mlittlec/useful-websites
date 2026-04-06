@@ -7,3 +7,5 @@
 - [Self-hosted Productivity app](http://tasktrove.io)
 
 ## AI Tools
+
+- [Aider CLI Tool]
