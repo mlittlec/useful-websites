@@ -8,4 +8,4 @@
 
 ## AI Tools
 
-- [Aider CLI Tool](aider.chat)
+- [Aider CLI Tool](https://aider.chat)
