@@ -10,4 +10,4 @@
 
 ## House Management Tools
 
-- [Grocy - web-based groceries & Home Management Tool]
+- [Grocy - web-based groceries & Home Management Tool](grocy.info)
