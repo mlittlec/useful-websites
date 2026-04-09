@@ -23,4 +23,4 @@
 ## Convert Video Formats
 
 - [MakeMKV](https://makemkv.com)
-- [Handbrake]
+- [Handbrake - Open Source video transcoder]
