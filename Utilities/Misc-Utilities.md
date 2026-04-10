@@ -27,4 +27,4 @@
 
 ## Git Tools
 
-- [LazyGit](github.com/jesseduffield/Lazygit)
+- [LazyGit](https://github.com/jesseduffield/Lazygit)
