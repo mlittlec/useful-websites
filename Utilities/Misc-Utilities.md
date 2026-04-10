@@ -26,3 +26,5 @@
 - [Handbrake - Open Source video transcoder](https://handbrake.fr/)
 
 ## Git Tools
+
+- [LazyGit]
