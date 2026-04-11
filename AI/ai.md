@@ -9,4 +9,4 @@
 ## AI Tools
 
 - [Aider CLI Tool](https://aider.chat)
-- [Opencode AI](opencode.ai)
+- [Opencode Source AI Coding Agent](opencode.ai)
