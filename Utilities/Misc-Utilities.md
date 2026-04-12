@@ -31,4 +31,4 @@
 
 ## Productivity
 
-- [Task Trove - Self-hosted productivity app](tasktrove.io)
+- [Task Trove - Self-hosted productivity app](http://tasktrove.io)
