@@ -30,3 +30,5 @@
 - [LazyGit](https://github.com/jesseduffield/Lazygit)
 
 ## Productivity
+
+- [Task Trove - Self-hosted productivity app]
