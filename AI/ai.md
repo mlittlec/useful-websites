@@ -5,7 +5,7 @@
 - [Toad](https://github.com/batrachianai/toad)
 - [Agentic Design Patterns (PDF Book on the same topic)](https://github.com/evoiz/Agentic-Design-Patterns)
 - [Self-hosted Productivity app](http://tasktrove.io)
-- [LLM - Access LLM's from the CLI]
+- [LLM - Access LLM's from the CLI](github.com/simonw/llm)
 
 ## AI Tools
 
