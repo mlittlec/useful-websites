@@ -6,7 +6,7 @@
 - [Agentic Design Patterns (PDF Book on the same topic)](https://github.com/evoiz/Agentic-Design-Patterns)
 - [Self-hosted Productivity app](http://tasktrove.io)
 - [LLM - Access LLM's from the CLI](https://github.com/simonw/llm)
-  - [Documentation for th above]
+  - [Documentation for th above](llm.dataset.io/en/stable/)
 
 ## AI Tools
 
