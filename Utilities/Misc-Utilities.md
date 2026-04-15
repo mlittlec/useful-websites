@@ -28,6 +28,7 @@
 ## Git Tools
 
 - [LazyGit](https://github.com/jesseduffield/Lazygit)
+- [Open Gist]
 
 ## Productivity
 
