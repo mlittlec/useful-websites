@@ -2,4 +2,4 @@
 
 ## Authoring Tools
 
-- [DitaCraft - The easiest way to edit and publish your DITA files](github.com/jyjeanne/ditacraft)
+- [DitaCraft - The easiest way to edit and publish your DITA files](http://github.com/jyjeanne/ditacraft)
