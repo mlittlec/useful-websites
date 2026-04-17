@@ -35,3 +35,5 @@
 - [Task Trove - Self-hosted productivity app](http://tasktrove.io)
 
 ## Youtube related stuff
+
+- [Clip Grab - a YouTube video downloader]
