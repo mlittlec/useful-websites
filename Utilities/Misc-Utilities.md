@@ -36,4 +36,4 @@
 
 ## Youtube related stuff
 
-- [Clip Grab - a YouTube video downloader](clipgrab.org)
+- [Clip Grab - a YouTube video downloader](http://clipgrab.org)
