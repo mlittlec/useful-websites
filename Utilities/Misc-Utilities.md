@@ -34,3 +34,5 @@
 - [Clip Grab - a YouTube video downloader](http://clipgrab.org)
 
 ## Podcast & Audiobook Utilities
+
+- [Audio Bookshelf - A self-hosted Podcast & Audiobook server]
