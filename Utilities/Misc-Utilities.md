@@ -35,4 +35,4 @@
 
 ## Podcast & Audiobook Utilities
 
-- [Audio Bookshelf - A self-hosted Podcast & Audiobook server]
+- [Audio Bookshelf - A self-hosted Podcast & Audiobook server](github.com/advplyr/audiobookshelf)
