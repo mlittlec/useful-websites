@@ -25,11 +25,6 @@
 - [MakeMKV](https://makemkv.com)
 - [Handbrake - Open Source video transcoder](https://handbrake.fr/)
 
-## Git Tools
-
-- [LazyGit](https://github.com/jesseduffield/Lazygit)
-- [Open Gist](https://github.com/thomiceli/opengist)
-
 ## Productivity
 
 - [Task Trove - Self-hosted productivity app](http://tasktrove.io)
@@ -37,3 +32,5 @@
 ## Youtube related stuff
 
 - [Clip Grab - a YouTube video downloader](http://clipgrab.org)
+
+## Podcast & Audiobook Utilities
