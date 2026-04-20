@@ -6,4 +6,4 @@
 - [Rich](https://github.com/Textualize/rich)
 - [Textual](https://github.com/Textualize/textual)
 - [Toad](https://batrachianai/toad)
-- [NiceGUI - A GUI frontend for Python](nicegui.io)
+- [NiceGUI - A GUI frontend for Python](https://nicegui.io)
