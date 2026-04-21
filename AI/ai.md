@@ -14,3 +14,5 @@
 - [Opencode Source AI Coding Agent](https://opencode.ai)
 
 ## Blog Sites
+
+- [Sleeping Robots - An AI Commentary Site]
