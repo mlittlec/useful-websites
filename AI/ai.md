@@ -12,3 +12,5 @@
 
 - [Aider CLI Tool](https://aider.chat)
 - [Opencode Source AI Coding Agent](https://opencode.ai)
+
+## Blog Sites
