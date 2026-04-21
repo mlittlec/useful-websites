@@ -15,4 +15,4 @@
 
 ## Blog Sites
 
-- [Sleeping Robots - An AI Commentary Site]
+- [Sleeping Robots - An AI Commentary Site](sleepingrobots.com/dreams/stop-using-ollama/)
