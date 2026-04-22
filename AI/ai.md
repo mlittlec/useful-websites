@@ -12,7 +12,7 @@
 
 - [Aider CLI Tool](https://aider.chat)
 - [Opencode Source AI Coding Agent](https://opencode.ai)
-- [LM Studio Homepage](lmstudio.ai)
+- [LM Studio Homepage](https://lmstudio.ai)
 
 ## Blog Sites
 
