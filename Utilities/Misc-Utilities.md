@@ -44,4 +44,4 @@
 
 ## Database-related Tools
 
-- [Browser-based DB Modeller](drawdb.app)
+- [Browser-based DB Modeller](https://drawdb.app)
