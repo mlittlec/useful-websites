@@ -13,7 +13,7 @@
 - [Aider CLI Tool](https://aider.chat)
 - [Opencode Source AI Coding Agent](https://opencode.ai)
 - [LM Studio Homepage](https://lmstudio.ai)
-- [Vibe Coding Toolkit](github.com/github/spec-kit)
+- [Vibe Coding Toolkit](https://github.com/github/spec-kit)
 
 ## Blog Sites
 
