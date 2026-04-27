@@ -21,4 +21,4 @@
 
 ## Cline Information
 
-- [Cline Prompts](github.com/cline/prompts)
+- [Cline Prompts](https://github.com/cline/prompts)
