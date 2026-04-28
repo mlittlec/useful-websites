@@ -22,4 +22,4 @@
 ## Cline Information
 
 - [Cline Prompts](https://github.com/cline/prompts)
-- [Cline Memory Bank](docs.cline.bot/prompting/cline-memory-bank)
+- [Cline Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
