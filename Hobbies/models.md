@@ -5,3 +5,5 @@
 - [Artesanial Latina](https://artesanialatina.net/en/)
 
 ## Paper Space Models
+
+- [AXM Paper Space Models]
