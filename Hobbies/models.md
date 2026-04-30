@@ -6,4 +6,4 @@
 
 ## Paper Space Models
 
-- [AXM Paper Space Models]
+- [AXM Paper Space Models](https://axmpaperspacescalemodels.com/index.php/3d-parts/)
