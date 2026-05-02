@@ -1,4 +1,4 @@
-# A Compilation of Generic AI Tools, Utilities etc.
+# A Compilation of Generic AI Tools, Utilities etc
 
 ## Generic CLI Tools
 
@@ -23,3 +23,5 @@
 
 - [Cline Prompts](https://github.com/cline/prompts)
 - [Cline Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
+
+## Training
