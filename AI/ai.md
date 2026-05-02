@@ -25,3 +25,5 @@
 - [Cline Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
 
 ## Training
+
+- [AI Agents for Beginners - A Course]
