@@ -15,6 +15,9 @@
 - [LM Studio Homepage](https://lmstudio.ai)
 - [Vibe Coding Toolkit](https://github.com/github/spec-kit)
 
+## Python Development Libraries
+
+
 ## Blog Sites
 
 - [Sleeping Robots - An AI Commentary Site](https://sleepingrobots.com/dreams/stop-using-ollama/)
