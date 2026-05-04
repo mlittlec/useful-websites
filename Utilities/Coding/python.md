@@ -7,4 +7,4 @@
 - [Textual](https://github.com/Textualize/textual)
 - [Toad](https://batrachianai/toad)
 - [NiceGUI - A GUI frontend for Python](https://nicegui.io)
-- [pydita - Python modules and applications for working with DITA content.]
+- [pydita - Python modules and applications for working with DITA content.](https://github.com/dita-community/pydita)
