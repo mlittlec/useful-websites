@@ -9,5 +9,4 @@
 - [NiceGUI - A GUI frontend for Python](https://nicegui.io)
 - [pydita - Python modules and applications for working with DITA content.](https://github.com/dita-community/pydita)
 - [DITA-OT - DITA Open Toolkit — the open-source publishing engine for content authored in the Darwin Information Typing Architecture.](https://github.com/rolfedh/asciidoc-dita-toolkit)
-  - [DITA-OT Website]
-  
+  - [DITA-OT Website](https://www.dita-ot.org/)
