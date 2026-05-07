@@ -11,4 +11,4 @@
 - [DITA-OT - DITA Open Toolkit — the open-source publishing engine for content authored in the Darwin Information Typing Architecture.](https://github.com/rolfedh/asciidoc-dita-toolkit)
   - [DITA-OT Website](https://www.dita-ot.org/)
   - [DITA-OT GitHub site](https://github.com/dita-ot/dita-ot)
-- [`asciidoctor-dita-vale` - Detect incompatible markup before converting from AsciiDoc to DITA]
+- [`asciidoctor-dita-vale` - Detect incompatible markup before converting from AsciiDoc to DITA](https://github.com/jhradilek/asciidoctor-dita-vale)
