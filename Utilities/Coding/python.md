@@ -12,3 +12,5 @@
   - [DITA-OT Website](https://www.dita-ot.org/)
   - [DITA-OT GitHub site](https://github.com/dita-ot/dita-ot)
 - [`asciidoctor-dita-vale` - Detect incompatible markup before converting from AsciiDoc to DITA](https://github.com/jhradilek/asciidoctor-dita-vale)
+  - [`ascii-dita-toolkit` - Scripts to fix or flag issues in that have been identified by jhradilek/asciidoctor-dita-vale]
+  
