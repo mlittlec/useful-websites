@@ -48,4 +48,5 @@
 
 ## Documentation Tools
 
-- [Docusaurus - Easy to maintain open source documentation websites.]
+- [Docusaurus - Easy to maintain open source documentation websites.](https://docusaurus.io/)
+  - [Docusaurus GitHub site]
