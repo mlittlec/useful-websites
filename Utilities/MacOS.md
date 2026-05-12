@@ -5,4 +5,4 @@
 - [asitop - Perf monitoring CLI tool for Apple Silicon](https://github.com/tlkh/asitop)
 - [Mole (Deepclean your Mac (and possibly MS Windows too))](https://github.com/tw93/Mole)
 - [MacOS Emoji App](https://matthewpalmer.net/rocket/)
-- [MacOS Manager](sergii.tatarenkov.name/keycln)
+- [MacOS Manager](https://sergii.tatarenkov.name/keycln)
