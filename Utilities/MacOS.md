@@ -6,4 +6,4 @@
 - [Mole (Deepclean your Mac (and possibly MS Windows too))](https://github.com/tw93/Mole)
 - [MacOS Emoji App](https://matthewpalmer.net/rocket/)
 - [MacOS Manager](https://sergii.tatarenkov.name/keycln)
-- [Power Usage Monitor for Mac](github.com/araelo/pumas)
+- [Power Usage Monitor for Mac](https://github.com/araelo/pumas)
