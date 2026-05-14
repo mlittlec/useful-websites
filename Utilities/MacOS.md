@@ -7,4 +7,4 @@
 - [MacOS Emoji App](https://matthewpalmer.net/rocket/)
 - [MacOS Manager](https://sergii.tatarenkov.name/keycln)
 - [Power Usage Monitor for Mac](https://github.com/graelo/pumas)
-- [Perfomance Monitoring CLI Tool for Mac]
+- [Performance Monitoring CLI Tool for Mac]
