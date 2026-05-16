@@ -27,6 +27,7 @@
 
 - [Cline Prompts](https://github.com/cline/prompts)
 - [Cline Memory Bank](https://docs.cline.bot/prompting/cline-memory-bank)
+- [Cline Slash Commands]
 
 ## Training
 
