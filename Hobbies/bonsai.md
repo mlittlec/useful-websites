@@ -2,4 +2,4 @@
 
 ## Tree Seed Vendors
 
-- [Tree Seed Online Ltd]
+- [Tree Seed Online Ltd](https://www.treeseedonline.com/store/c1/Featured_Products.html)
