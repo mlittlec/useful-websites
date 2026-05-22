@@ -52,3 +52,5 @@
   - [Docusaurus GitHub site](https://github.com/facebook/docusaurus)
 
 ## Self-Hosted Secure VPN's
+
+- [Headscale - Headscale is an open source, self-hosted implementation of the Tailscale control server.]
