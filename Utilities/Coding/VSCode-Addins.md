@@ -1,4 +1,4 @@
-# A compilation of various Visual Studio Code Addins
+# A compilation of various Visual Studio Code Add-ins
 
 ## Authoring Tools
 
