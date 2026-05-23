@@ -53,4 +53,4 @@
 
 ## Self-Hosted Secure VPN's
 
-- [Headscale - Headscale is an open source, self-hosted implementation of the Tailscale control server.]
+- [Headscale - Headscale is an open source, self-hosted implementation of the Tailscale control server.](https://headscale.net/stable/)
