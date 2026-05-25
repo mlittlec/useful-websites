@@ -2,7 +2,7 @@
 
 ## Wooden Model Boats
 
-- [Artesanial Latina](https://artesanialatina.net/en/)
+- [Artesanial Latina Wooden Boat Kits](https://artesanialatina.net/en/)
 
 ## Paper Space Models
 
