@@ -3,6 +3,7 @@
 ## Multi-OS Utilities
 
 - [ASCII Christmas Tree](https://xmas.ysap.sh)
+- [Sherlock - Hunt down social media accounts by username across 400+ social networks]
 
 ## *nix Utilities
 
