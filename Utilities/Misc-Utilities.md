@@ -4,7 +4,7 @@
 
 - [ASCII Christmas Tree](https://xmas.ysap.sh)
 - [Sherlock - Hunt down social media accounts by username across 400+ social networks](https://sherlockproject.xyz/)
-  - [Sherlock GitHub Repo]
+  - [Sherlock GitHub Repo](https://github.com/sherlock-project/sherlock)
 
 ## *nix Utilities
 
