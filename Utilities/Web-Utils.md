@@ -6,7 +6,7 @@
 
 ## Password Generators
 
-- [Awesome password generator for kids](https://www.dinopass.com/)
+- [Awesome password generator for kids (Dinopass)](https://www.dinopass.com/)
 
 ## House Management Tools
 
