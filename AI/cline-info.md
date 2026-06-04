@@ -8,7 +8,7 @@
 
 - [Using Cline Commands](https://docs.cline.bot/core-workflows/using-commands)
 
-## Cline Slash Commands
+### Cline Slash Commands
 
 - [Cline Slash Commands](https://docs.cline.bot/features/slash-commands/newtask)
 
