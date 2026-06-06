@@ -22,5 +22,4 @@
 ## Python Tools
 
 - [`pyinfra` - The main website](https://pyinfra.com/)
-  - [`pyinfra` GitHub account]
-  
+  - [`pyinfra` GitHub account](https://github.com/pyinfra-dev/pyinfra)
