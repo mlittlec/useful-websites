@@ -2,4 +2,4 @@
 
 ## Password Managers
 
-- [`pass` - The standard unix password manager]
+- [`pass` - The standard unix password manager](https://www.passwordstore.org/)
