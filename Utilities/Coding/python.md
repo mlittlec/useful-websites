@@ -23,4 +23,4 @@
 
 - [`pyinfra` - The main website](https://pyinfra.com/)
   - [`pyinfra` GitHub account](https://github.com/pyinfra-dev/pyinfra)
-  - [`pyinfra examples` GitHub repo]
+  - [`pyinfra examples` GitHub repo](https://github.com/pyinfra-dev/pyinfra-examples)
