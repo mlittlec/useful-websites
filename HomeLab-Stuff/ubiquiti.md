@@ -2,4 +2,4 @@
 
 ## Websites
 
-- [Ubiquiti main site]
+- [Ubiquiti main site](https://www.ui.com/)
