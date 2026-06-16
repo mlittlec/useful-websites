@@ -3,5 +3,5 @@
 ## Websites
 
 - [Ubiquiti main site](https://www.ui.com/)
-- [UniFi Academy](https://academy.ui.com/)
+- [UniFi Academy (Learning material)](https://academy.ui.com/)
 - [Unifi Design Center]
