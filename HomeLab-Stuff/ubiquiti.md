@@ -5,4 +5,4 @@
 - [Ubiquiti main site](https://www.ui.com/)
 - [UniFi Academy (Learning material)](https://academy.ui.com/)
 - [Unifi Design Center](https://design.ui.com/)
-- [Unifi Console]
+- [Unifi Console](https://unifi.ui.com)
