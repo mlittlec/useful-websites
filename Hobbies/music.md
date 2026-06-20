@@ -2,4 +2,4 @@
 
 ## Locate Physical Media to purchase
 
-- [Discogs]
+- [Discogs](https://ww.discogs.com)
