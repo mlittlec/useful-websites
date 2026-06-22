@@ -7,4 +7,4 @@
   - [Homelable HACs GitHub Project (For Home Assistant)](https://github.com/Pouzor/homelable-hacs)
   - [Youtube video showing the tool](https://www.youtube.com/watch?v=-cafO_svi8I)
 
-## Tailscale-relaed Information
+## Tailscale-related Information
