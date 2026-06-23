@@ -8,3 +8,5 @@
   - [Youtube video showing the tool](https://www.youtube.com/watch?v=-cafO_svi8I)
 
 ## Tailscale-related Information
+
+- [`tailsnitch`]
