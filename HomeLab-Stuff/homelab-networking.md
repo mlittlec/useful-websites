@@ -9,4 +9,4 @@
 
 ## Tailscale-related Information
 
-- [`tailsnitch` - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations]
+- [`tailsnitch` - A security auditor for Tailscale configurations. Scans your tailnet for misconfigurations, overly permissive access controls, and security best practice violations](https://github.com/Adversis/tailsnitch)
