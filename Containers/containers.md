@@ -5,4 +5,4 @@
 - [MacOS Containers](https://github.com/apple/container)
 - [VMs for MacOS](https://www.github.com/utmapp/UTM)
 - [Apple Containers](https://github.com/apple/container/tree/main)
-  - [Apple Containers GitHub Releases page]
+  - [Apple Containers GitHub Releases page](https://github.com/apple/container/releases)
