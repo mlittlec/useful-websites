@@ -6,3 +6,5 @@
   - [Git repo for the `pass` utility](https://git.zx2c4.com/password-store/)
 
 ## Editors
+
+- [Doom EMACS]
