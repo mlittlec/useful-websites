@@ -7,4 +7,4 @@
 
 ## Editors
 
-- [Doom EMACS]
+- [Doom EMACS](https://github.com/doomemacs/core)
