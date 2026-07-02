@@ -4,5 +4,5 @@
 
 - [LazyGit](https://github.com/jesseduffield/Lazygit)
 - [Open Gist](https://github.com/thomiceli/opengist)
-- [Forgojo - An Open-source alternative to GitHub](https://forgego.org)
+- [Forgejo - An Open-source alternative to GitHub](https://forgego.org)
 - [`ghgrab` - A TUI to download files/folders from repositories without downloading them]
