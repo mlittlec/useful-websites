@@ -12,4 +12,4 @@
 ## Microsoft Windows Related
 
 - [WSL Containers](https://learn.microsoft.com/en-us/windows/wsl/wsl-container?tabs=csharp)
-- [WSL Containers (Preview version announcement)]
+- [WSL Containers (Preview version announcement)](https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/)
