@@ -13,4 +13,4 @@
 
 - [WSL Containers](https://learn.microsoft.com/en-us/windows/wsl/wsl-container?tabs=csharp)
 - [WSL Containers (Preview version announcement)](https://devblogs.microsoft.com/commandline/wsl-container-is-now-available-for-public-preview/)
-  - [WSL Preview link in GitHub]
+  - [WSL Preview link in GitHub](https://github.com/microsoft/WSL/releases/tag/2.9.3)
