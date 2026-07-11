@@ -59,4 +59,4 @@
 
 ## News Sites
 
-- [Weekly Self Hosted News]
+- [Weekly Self Hosted News](https://selfh.st/)
