@@ -60,3 +60,5 @@
 ## News Sites
 
 - [Weekly Self Hosted News](https://selfh.st/)
+
+## Password Generator Sites
