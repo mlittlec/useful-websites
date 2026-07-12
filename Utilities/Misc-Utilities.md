@@ -62,3 +62,5 @@
 - [Weekly Self Hosted News](https://selfh.st/)
 
 ## Password Generator Sites
+
+- [Dinopass]
