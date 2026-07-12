@@ -63,4 +63,4 @@
 
 ## Password Generator Sites
 
-- [Dinopass]
+- [Dinopass - The simple password generator]
