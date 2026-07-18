@@ -35,4 +35,4 @@
 
 ## Grok-related Stuff
 
-- [Grok main page]
+- [Grok main page](https://grok.com/)
