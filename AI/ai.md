@@ -36,3 +36,4 @@
 ## Grok-related Stuff
 
 - [Grok main page](https://grok.com/)
+- [Google Gemini main page]
