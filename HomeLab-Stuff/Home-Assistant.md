@@ -6,3 +6,5 @@
   - [YouTube - Video showing Winter Snow Mode Enabling](https://www.youtube.com/watch?v=eRgpMekjS5c)
 
 ## Integrate Security Cameras into Home Assistant
+
+- [Scrypted - Scrypted is a high performance video integration and automation platform]
