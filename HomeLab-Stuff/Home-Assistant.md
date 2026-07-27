@@ -8,4 +8,4 @@
 ## Integrate Security Cameras into Home Assistant
 
 - [Scrypted - Scrypted is a high performance video integration and automation platform](https://www.scrypted.app/)
-  - [Scrypted Officil Documentation Site](https://docs.scrypted.app/)
+  - [Scrypted Official Documentation Site](https://docs.scrypted.app/)
