@@ -2,7 +2,7 @@
 
 ## Monitor the Network
 
-- [Homelable - Map. Monitor. Master your homelab.](https://homelable.net/)
+- [Homelable - Map. Monitor. Master your Home Lab.](https://homelable.net/)
   - [GitHub Project](https://github.com/Pouzor/homelable)
   - [Homelable HACs GitHub Project (For Home Assistant)](https://github.com/Pouzor/homelable-hacs)
   - [YouTube video showing the tool](https://www.youtube.com/watch?v=-cafO_svi8I)
