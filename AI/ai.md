@@ -8,6 +8,7 @@
 - [LLM - Access LLM's from the CLI](https://github.com/simonw/llm)
   - [Documentation for the above](https://llm.dataset.io/en/stable/)
 - [Pi - it is a minimal terminal coding harness. It is designed to stay small at the core while being extended through TypeScript extensions, skills, prompt templates, themes, and pi packages](https://pi.dev/)
+  - [Pi Docs Site]
 
 ## AI Tools
 
