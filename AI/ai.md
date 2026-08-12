@@ -9,7 +9,7 @@
   - [Documentation for the above](https://llm.dataset.io/en/stable/)
 - [Pi - it is a minimal terminal coding harness. It is designed to stay small at the core while being extended through TypeScript extensions, skills, prompt templates, themes, and pi packages](https://pi.dev/)
   - [Pi Documentation Site](https://pi.dev/docs/latest)
-- ['herdr' - the runtime your coding agents live on](https://herdr.dev/)
+- ['herdr' - The runtime your coding agents live on](https://herdr.dev/)
 
 ## AI Tools
 
