@@ -19,7 +19,7 @@
 - [Open Code Source AI Coding Agent](https://opencode.ai)
 - [LM Studio Homepage](https://lmstudio.ai)
 - [Vibe Coding Toolkit](https://github.com/github/spec-kit)
-- [Lemonade]
+- [Lemonade](https://lemonade-server.ai/)
 
 ## Python Development Libraries
 
