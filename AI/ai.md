@@ -11,7 +11,7 @@
   - [Pi Documentation Site](https://pi.dev/docs/latest)
 - ['herdr' - The runtime your coding agents live on](https://herdr.dev/)
   - ['herdr' - Documentation Site](https://herdr.dev/docs/)
-- [LM Studio](https://lmstudio.ai/)
+- [LM Studio - Discover, download, and run local LLMs](https://lmstudio.ai/)
 
 ## AI Tools
 
