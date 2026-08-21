@@ -23,7 +23,7 @@
 
 ## Python Development Libraries
 
-- [asciidoctor-dita-vale - Detect incompatible markup before converting from AsciiDoc to DITA](https://github.com/jhradilek/asciidoctor-dita-vale)
+- [`asciidoctor-dita-vale` - Detect incompatible markup before converting from AsciiDoc to DITA](https://github.com/jhradilek/asciidoctor-dita-vale)
 
 ## Blog Sites
 
