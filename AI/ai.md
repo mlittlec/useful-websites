@@ -28,7 +28,7 @@
 ## Blog Sites
 
 - [Sleeping Robots - An AI Commentary Site](https://sleepingrobots.com/dreams/stop-using-ollama/)
-- [Silent Room - A Journal About Writing, AI and the Rare Moments of Silence]
+- [Silent Room - A Journal About Writing, AI, and the Rare Moments of Silence]
 
 ## Cline Information
 
