@@ -10,7 +10,7 @@
 
 - [screenFetch](https://github.com/KittyKatt/screenFetch)
 - [Mole - a deep clean tool for Mac (& possibly Windows)](http://www.github.com/tw93/Mole)
-- [Atuin - Enhanced Shell History]
+- [Atuin - Enhanced Shell History](https://atuin.sh/)
 
 ## MacOS Utilities
 
