@@ -8,3 +8,6 @@
 ## Editors
 
 - [Doom EMACS](https://github.com/doomemacs/core)
+
+
+## Hacker's Tools (Red & Blue Team Tools)
