@@ -9,7 +9,6 @@
 
 - [Doom EMACS](https://github.com/doomemacs/core)
 
-
 ## Hacker's Tools (Red & Blue Team Tools)
 
 - [The Hacker's Choice](https://www.thc.org)
