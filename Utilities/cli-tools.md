@@ -12,3 +12,4 @@
 ## Hacker's Tools (Red & Blue Team Tools)
 
 - [The Hacker's Choice](https://www.thc.org)
+  - [SSH-IT - An autonomous SSH worm that intercepts outgoing SSH connections every time a user uses ssh.]
