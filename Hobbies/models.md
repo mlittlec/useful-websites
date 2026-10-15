@@ -16,6 +16,8 @@
 ## Plastic Models
 
 - [Perry Miniatures - Various soldiers](https://www.perry-miniatures.com/)
+- [Blitzkrieg Miniatures - Various tanks, Planes, Warships etc. for war gamers & others](https://www.blitzkriegminiatures.com)
+  - [Blitzkrieg Facebook page](https://www.facebook.com/p/Blitzkrieg-Miniatures-100063749911765/)
 
 ## Home Printer Models
 
