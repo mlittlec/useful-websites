@@ -22,6 +22,7 @@
 ## Python Tools
 
 - [`pyinfra` - The main website](https://pyinfra.com/)
+  - [`pyinfra` org in GitHub](https://github.com/pyinfra-dev)
   - [`pyinfra` GitHub account](https://github.com/pyinfra-dev/pyinfra)
   - [`pyinfra examples` GitHub repo](https://github.com/pyinfra-dev/pyinfra-examples)
   - [`pyinfra` Documentation](https://docs.pyinfra.com/en/3.x/)
