@@ -20,6 +20,10 @@
   - [Blitzkrieg Facebook page](https://www.facebook.com/p/Blitzkrieg-Miniatures-100063749911765/)
 - [Langley Models - Various models for train enthusiasts](https://www.langleymodels.co.uk/awd1/index.php?route=common/home)
 
+## Resin Models
+
+- [Matador models - might ber closed](https://www.matadormodels.co.uk/index.htm)
+
 ## Home Printer Models
 
 - [Alladin Models](https://www.aladdinmodel.com/)
