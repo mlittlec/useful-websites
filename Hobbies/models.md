@@ -16,3 +16,7 @@
 ## Plastic Models
 
 - [Perry Miniatures - Various soldiers](https://www.perry-miniatures.com/)
+
+## Home Printer Models
+
+- [Alladin Models](https://www.aladdinmodel.com/)
