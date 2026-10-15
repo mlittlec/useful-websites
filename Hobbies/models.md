@@ -12,3 +12,7 @@
 
 - [ASAM Models](http://asam.co.uk/mmant.html)
 - [Dinky Die Cast Toys Catalogues](https://realpriceguides.com/dinky/index.htm)
+
+## Plastic Models
+
+- [Perry Miniatures - Various soldiers](https://www.perry-miniatures.com/)
