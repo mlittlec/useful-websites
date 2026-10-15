@@ -26,4 +26,4 @@
 
 ## Home Printer Models
 
-- [Alladin Models](https://www.aladdinmodel.com/)
+- [Aladdin Models](https://www.aladdinmodel.com/)
