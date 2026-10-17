@@ -27,3 +27,7 @@
 ## Home Printer Models
 
 - [Aladdin Models](https://www.aladdinmodel.com/)
+
+## Model Enhancement Kit Suppliers
+
+- [Armory Model Group - Aircraft & AFV Accessories](https://armorymodels.com/)
