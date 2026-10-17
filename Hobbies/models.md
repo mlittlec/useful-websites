@@ -28,6 +28,12 @@
 
 - [Aladdin Models](https://www.aladdinmodel.com/)
 
-## Model Enhancement Kit Suppliers
+## Model Model and/or Enhancement Kit Suppliers
+
+### Model Kit Suppliers
+
+- [Hannants Models](https://www.hannants.co.uk/)
+
+### Enhancement Kit Suppliers
 
 - [Armory Model Group - Aircraft & AFV Accessories (buy from Hannants in UK)](https://armorymodels.com/)
