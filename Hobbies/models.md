@@ -30,4 +30,4 @@
 
 ## Model Enhancement Kit Suppliers
 
-- [Armory Model Group - Aircraft & AFV Accessories](https://armorymodels.com/)
+- [Armory Model Group - Aircraft & AFV Accessories (buy from Hannants in UK)](https://armorymodels.com/)
