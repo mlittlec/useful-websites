@@ -37,3 +37,9 @@
 ### Enhancement Kit Suppliers
 
 - [Armory Model Group - Aircraft & AFV Accessories (buy from Hannants in UK)](https://armorymodels.com/)
+
+## Cutaway Diagrams
+
+- [Article about Flight magazine cutaways](https://technicalillustrators.org/2010/04/aircraft-cutaway-archives/)
+  - [Flight Magazine Cutaway Archive](https://www.flightglobalimages.com/cutaways)
+  - [Flight Magazine cutaway archive search](https://www.flightglobalimages.com/)
