@@ -43,3 +43,7 @@
 - [Article about Flight magazine cutaways](https://technicalillustrators.org/2010/04/aircraft-cutaway-archives/)
   - [Flight Magazine Cutaway Archive](https://www.flightglobalimages.com/cutaways)
   - [Flight Magazine cutaway archive search](https://www.flightglobalimages.com/)
+
+## Research Sources
+
+- [Online Aviation archive](https://onlineaviationlibrary.com/)
