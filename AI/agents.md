@@ -12,3 +12,4 @@
 ## Agent Orchestration Tools
 
 - [Paperclip](https://github.com/paperclipai/paperclip)
+- [Hermes Agent (self-hosted)](https://hermes-agent.ai/self-hosting)
