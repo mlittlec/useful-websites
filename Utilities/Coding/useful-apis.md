@@ -4,3 +4,7 @@
 
 - [`open-meteo` - Open-Meteo is an open-source weather API offering free access for non-commercial use. No API key is required.](https://github.com/open-meteo/open-meteo)
 - [Open Weather Data (openweather.org)](https://openweathermap.org/)
+
+## Daily experience inspiration
+
+- [Bucketlist.nl Dream of the Day (OpenAPI)](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) — No-key daily travel and life-experience JSON; Dutch default with optional English.
