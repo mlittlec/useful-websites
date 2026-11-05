@@ -11,4 +11,4 @@
 
 ## Learning
 
-- [Try Hack Me - Beginner to Intermediate learning material]
+- [Try Hack Me - Beginner to Intermediate learning material](https://tryhackme.com)
