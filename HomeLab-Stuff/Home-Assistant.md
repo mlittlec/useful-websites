@@ -13,4 +13,4 @@
   
 ## Dashboard-related
 
-- [Panalume - A glassy, fast, drag-and-drop Home Assistant dashboard app]
+- [Panalume - A glassy, fast, drag-and-drop Home Assistant dashboard app](https://github.com/leacho73/panalume)
