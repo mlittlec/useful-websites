@@ -11,3 +11,6 @@
   - [Scrypted - The Official Doc Site](https://docs.scrypted.app/)
   - [Scrypted - The GitHub site](https://github.com/koush/scrypted)
   
+## Dashboard-related
+
+- [Panalume - A glassy, fast, drag-and-drop Home Assistant dashboard app]
