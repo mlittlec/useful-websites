@@ -4,6 +4,7 @@
 
 - [Hak5](https://hak5.org/)
 - [Flipper Zero](https://flipper.net/)
+  - [Flipper One - Prerelease website](https://flipper.net/products/flipper-one-preorder)
 
 ## Useful Tools
 
