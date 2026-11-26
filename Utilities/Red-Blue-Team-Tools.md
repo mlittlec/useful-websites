@@ -3,6 +3,7 @@
 ## Hardware-based tools
 
 - [Hak5](https://hak5.org/)
+- [Flipper Zero](https://flipper.net/)
 
 ## Useful Tools
 
