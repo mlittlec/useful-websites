@@ -11,3 +11,7 @@
 ## House Management Tools
 
 - [Grocy - web-based groceries & Home Management Tool](https://grocy.info)
+
+## Event & Venue Utilities
+
+- [StagePeek - 2D seating charts & 3D concert stage-view simulator for 201 global venues (no login required for first seat)](https://stagepeek.live)
